@@ -48,10 +48,7 @@ A simple Tkinter GUI allows users to input a survey base URL and the number of t
 - Python 3.x
 - Google Chrome
 - ChromeDriver (make sure it's added to your PATH)
-
 ### Installation
 
 ```bash
 pip install selenium openpyxl pandas
-
-
